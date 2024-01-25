@@ -14,7 +14,8 @@ Implementing secure user authentication using Firebase Authentication services, 
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/sghinup.png" alt="logoApp" width="250" height="550"/>
 </div>
-br><br><br>
+
+<br><br><br>
 State Management with BLoC/Cubit:<br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
 Shimmer Effect for Improved UX:<br>
@@ -30,7 +31,8 @@ Integrating external APIs to fetch and display dynamic data, enhancing the app's
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/shimmerEffect.png" alt="logoApp" width="250" height="550"/>
 </div>
-<br><br>
+
+<br><br><br>
 Onboarding for New Users:<br>
 Implementing an onboarding experience to guide new users through key features and functionalities of the app.:<br>
 <div>
@@ -56,6 +58,8 @@ Employing SQLite for CRUD operations, enabling local storage and retrieval of da
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/productSingle.png" alt="logoApp" width="250" height="550"/>
 </div>
 <br><br><br>
+
+
 Integration with Payment Services (PayMob):<br>
 Integrating PayMob for handling payment services, enabling users to securely make payments for services or products through a reliable payment gateway<br>
 <div style="display: flex; justify-content: space-evenly;">
@@ -68,8 +72,6 @@ Integrating PayMob for handling payment services, enabling users to securely mak
 <h2> <li> ui/ux Design App link 😉👍</li></h2>
     <li> https://www.behance.net/gallery/188657973/Casestudy-SOUQLY-e-commerce-Platform-(App-Website)</li>
   <ul>
-
-
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
