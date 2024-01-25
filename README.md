@@ -7,8 +7,8 @@ State Management with BLoC/Cubit:<br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
 Shimmer Effect for Improved UX:<br>
 <div style="display: inline-block;">
-    <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/splashing.png" alt="logoApp" width="250" height="600"/>
-<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/shimmerEffect.png" alt="logoApp" width="250" height="600"/>
+    <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/splashing.png" alt="logoApp" width="250" height="520"/>
+<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/shimmerEffect.png" alt="logoApp" width="250" height="520"/>
 
 </div>
 Incorporating a shimmer effect during data loading to enhance the user experience, providing a visually appealing loading animation.:<br>
