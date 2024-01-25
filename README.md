@@ -18,6 +18,9 @@ Implementing secure user authentication using Firebase Authentication services, 
 State Management with BLoC/Cubit:<br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
 Shimmer Effect for Improved UX:<br>
+API Integration for External Data:<br>
+Integrating external APIs to fetch and display dynamic data, enhancing the app's capabilities and providing real-time information.:<br>
+This project is a starting point for a Flutter application.:<br>
 <div style="display: flex; justify-content: space-evenly;">
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/splashing.png" alt="logoApp" width="250" height="550"/>
     &nbsp;&nbsp;&nbsp;
@@ -56,15 +59,13 @@ Employing SQLite for CRUD operations, enabling local storage and retrieval of da
 </div>
 <br>
 Integration with Payment Services (PayMob):<br>
+Integrating PayMob for handling payment services, enabling users to securely make payments for services or products through a reliable payment gateway<br>
 <div style="display: flex; justify-content: space-evenly;">
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/payscreen.png" alt="logoApp" width="250" height="550"/>
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/paument.png" alt="logoApp" width="250" height="550"/>
 </div>
-Integrating PayMob for handling payment services, enabling users to securely make payments for services or products through a reliable payment gateway.:<br>
-API Integration for External Data:<br>
-Integrating external APIs to fetch and display dynamic data, enhancing the app's capabilities and providing real-time information.:<br>
-This project is a starting point for a Flutter application.:<br>
+
 <h5>Started design this by me With UI/UX Designing</h5>
 <ul>
 <h2> <li> ui/ux Design App link 😉👍</li></h2>
