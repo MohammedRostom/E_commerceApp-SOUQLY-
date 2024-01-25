@@ -71,7 +71,7 @@ Integrating PayMob for handling payment services, enabling users to securely mak
 <ul>
 <li><h2>  ui/ux Design App link 😉👇👌</h2></li>
     <li> https://www.behance.net/gallery/188657973/Casestudy-SOUQLY-e-commerce-Platform-(App-Website)</li>
-  <ul><br><br><br><br><br>
+  <ul><br><br><br>
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
