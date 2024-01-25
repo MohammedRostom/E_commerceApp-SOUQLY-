@@ -3,7 +3,7 @@
 <br>
 "Overview" What Are used in this App? 
 <h2>Getting Started</h2>
-<b>Backend-as-a-Service (BaaS) with Firebase:</b>b><br>
+<b>Backend-as-a-Service (BaaS) with Firebase:</b><br>
 Leveraging Firebase as a Backend-as-a-Service solution to seamlessly integrate services such as Authentication, Realtime Database, Firestore, and Cloud Functions.<br>
 <b>Authentication with Firebase:</b>b><br>
 Implementing secure user authentication using Firebase Authentication services, allowing users to sign up, log in, and recover their accounts.
