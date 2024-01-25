@@ -30,12 +30,8 @@ Integration with Payment Services (PayMob):
 Integrating PayMob for handling payment services, enabling users to securely make payments for services or products through a reliable payment gateway.
 API Integration for External Data:
 Integrating external APIs to fetch and display dynamic data, enhancing the app's capabilities and providing real-time information..
-
-
-
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+<h6>Started design this by me With UI/UX Designing</h6>
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
