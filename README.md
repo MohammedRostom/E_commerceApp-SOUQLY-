@@ -8,6 +8,7 @@ Utilizing BLoC (Business Logic Component) and Cubit for efficient state manageme
 Shimmer Effect for Improved UX:<br>
 <div style="display: inline-block;">
     <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/splashing.png" alt="logoApp" width="250" height="520"/>
+        <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/home.png" alt="logoApp" width="250" height="520"/>
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/shimmerEffect.png" alt="logoApp" width="250" height="520"/>
 
 </div>
