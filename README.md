@@ -18,9 +18,11 @@ Implementing secure user authentication using Firebase Authentication services, 
 State Management with BLoC/Cubit:<br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
 Shimmer Effect for Improved UX:<br>
+Incorporating a shimmer effect during data loading to enhance the user experience, providing a visually appealing loading animation.:<br>
+Clean Architecture Design:<br>
+Adhering to Clean Architecture principles to organize the codebase into layers (Presentation, Domain, Data), fostering modularity and scalability.:<br>
 API Integration for External Data:<br>
 Integrating external APIs to fetch and display dynamic data, enhancing the app's capabilities and providing real-time information.:<br>
-This project is a starting point for a Flutter application.:<br>
 <div style="display: flex; justify-content: space-evenly;">
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/splashing.png" alt="logoApp" width="250" height="550"/>
     &nbsp;&nbsp;&nbsp;
@@ -28,15 +30,12 @@ This project is a starting point for a Flutter application.:<br>
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/shimmerEffect.png" alt="logoApp" width="250" height="550"/>
 </div>
-Incorporating a shimmer effect during data loading to enhance the user experience, providing a visually appealing loading animation.:<br>
-Clean Architecture Design:<br>
-Adhering to Clean Architecture principles to organize the codebase into layers (Presentation, Domain, Data), fostering modularity and scalability.:<br>
+
 
 Onboarding for New Users:<br>
 Implementing an onboarding experience to guide new users through key features and functionalities of the app.:<br>
 <div>
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/onbord.png" alt="logoApp" width="300" height="630"/>
-
 </div>
 
 Caching with Shared Preferences && Edit Profile Functionality <br>
