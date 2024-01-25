@@ -2,6 +2,7 @@
 "E-commerce App"
 <br>
 "Overview" What Are used in this App? 
+<h2>Getting Started</h2>
 Backend-as-a-Service (BaaS) with Firebase:<br>
 Leveraging Firebase as a Backend-as-a-Service solution to seamlessly integrate services such as Authentication, Realtime Database, Firestore, and Cloud Functions.:<br>
 
@@ -12,7 +13,7 @@ Leveraging Firebase as a Backend-as-a-Service solution to seamlessly integrate s
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/sghinup.png" alt="logoApp" width="250" height="550"/>
 </div>
-<h2>Getting Started</h2>
+
 State Management with BLoC/Cubit:<br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
 Shimmer Effect for Improved UX:<br>
