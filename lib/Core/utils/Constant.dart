@@ -45,6 +45,6 @@ class constant {
     {"Color": Colors.blue, "NameColor": "blue"},
   ];
   static final apiKey =
-      "ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmpiR0Z6Y3lJNklrMWxjbU5vWVc1MElpd2ljSEp2Wm1sc1pWOXdheUk2T1RVME1UZzVMQ0p1WVcxbElqb2lhVzVwZEdsaGJDSjkudU1aVzZxTE1QRXI5TlZIUXNSOUVMMmc3NnZuX1RqWTJ5WE9NUUxLYTNqTXotajJWa0J3eFZnQ0tNMFZkRTc0M3BtaEdrclVWTlJINlBYRE5feDF6N0E=";
-  static final cardPaymentMethodIntegrationId = 4443450;
+      "";
+  static final cardPaymentMethodIntegrationId = 0;
 }
