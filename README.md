@@ -6,6 +6,7 @@
 <b>Backend-as-a-Service (BaaS) with Firebase:</b><br>
 Leveraging Firebase as a Backend-as-a-Service solution to seamlessly integrate services such as Authentication, Realtime Database, Firestore, and Cloud Functions.<br>
 <b>Authentication with Firebase:</b>b><br>
+
 Implementing secure user authentication using Firebase Authentication services, allowing users to sign up, log in, and recover their accounts.
 <div style="display: flex; justify-content: space-evenly;">
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/wellcome.png" alt="logoApp" width="250" height="550"/>
@@ -20,7 +21,7 @@ Implementing secure user authentication using Firebase Authentication services, 
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
 <b>Shimmer Effect for Improved UX:</b><br>
 Incorporating a shimmer effect during data loading to enhance the user experience, providing a visually appealing loading animation.:<br>
-<b>Clean Architecture Design:</b><br>
+<b>Clean Architecture Design And SOLD principals:</b><br>
 Adhering to Clean Architecture principles to organize the codebase into layers (Presentation, Domain, Data), fostering modularity and scalability.:<br>
 <b>API Integration for External Data:</b><br>
 Integrating external APIs to fetch and display dynamic data, enhancing the app's capabilities and providing real-time information.:<br>
