@@ -18,7 +18,7 @@ Edit Profile Functionality:<br>
 Enabling users to customize their profiles by providing functionality to edit personal information, change profile pictures, and update other profile details.
 Custom Widgets for Consistent UI:<br>
 Designing and utilizing custom widgets throughout the app to maintain a consistent and visually appealing user interface, promoting code reusability.
-SQLite CRUD Operations for Local Data:
+SQLite CRUD Operations for Local Data:<br>
 Employing SQLite for CRUD operations, enabling local storage and retrieval of data, providing offline capabilities and a smoother user experience.
 Authentication with Firebase:<br>
 Implementing secure user authentication using Firebase Authentication services, allowing users to sign up, log in, and recover their accounts.
