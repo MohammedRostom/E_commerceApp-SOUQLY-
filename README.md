@@ -7,9 +7,9 @@ Leveraging Firebase as a Backend-as-a-Service solution to seamlessly integrate s
 
 <div style="display: flex; justify-content: space-evenly;">
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/wellcome.png" alt="logoApp" width="250" height="550"/>
-    &nbsp;
+    &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/login.png" alt="logoApp" width="250" height="550"/>
-    &nbsp;
+    &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/sghinup.png" alt="logoApp" width="250" height="550"/>
 </div>
 <h2>Getting Started</h2>
@@ -18,9 +18,9 @@ Utilizing BLoC (Business Logic Component) and Cubit for efficient state manageme
 Shimmer Effect for Improved UX:<br>
 <div style="display: flex; justify-content: space-evenly;">
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/splashing.png" alt="logoApp" width="250" height="550"/>
-    &nbsp;
+    &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/home.png" alt="logoApp" width="250" height="550"/>
-    &nbsp;
+    &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/shimmerEffect.png" alt="logoApp" width="250" height="550"/>
 </div>
 Incorporating a shimmer effect during data loading to enhance the user experience, providing a visually appealing loading animation.:<br>
