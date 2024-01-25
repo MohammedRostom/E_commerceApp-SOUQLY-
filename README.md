@@ -16,7 +16,7 @@ Implementing secure user authentication using Firebase Authentication services, 
 </div>
 
 <br><br><br>
-State Management with BLoC/Cubit:<b><br>
+<b>State Management with BLoC/Cubit:</b><br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
 Shimmer Effect for Improved UX:<br>
 Incorporating a shimmer effect during data loading to enhance the user experience, providing a visually appealing loading animation.:<br>
