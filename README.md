@@ -2,6 +2,13 @@
 "E-commerce App"
 <br>
 "Overview" What Are used in this App? 
+Backend-as-a-Service (BaaS) with Firebase:<br>
+Leveraging Firebase as a Backend-as-a-Service solution to seamlessly integrate services such as Authentication, Realtime Database, Firestore, and Cloud Functions.:<br>
+<div style="display: inline-block;">
+    <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/wellcome.png" alt="logoApp" width="250" height="550"/>
+        <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/login.png" alt="logoApp" width="250" height="550"/>
+<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/sghinup.png" alt="logoApp" width="250" height="550"/>
+</div>
 <h2>Getting Started</h2>
 State Management with BLoC/Cubit:<br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
@@ -10,13 +17,11 @@ Shimmer Effect for Improved UX:<br>
     <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/splashing.png" alt="logoApp" width="250" height="550"/>
         <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/home.png" alt="logoApp" width="250" height="550"/>
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/shimmerEffect.png" alt="logoApp" width="250" height="550"/>
-
 </div>
 Incorporating a shimmer effect during data loading to enhance the user experience, providing a visually appealing loading animation.:<br>
 Clean Architecture Design:<br>
 Adhering to Clean Architecture principles to organize the codebase into layers (Presentation, Domain, Data), fostering modularity and scalability.:<br>
-Backend-as-a-Service (BaaS) with Firebase:<br>
-Leveraging Firebase as a Backend-as-a-Service solution to seamlessly integrate services such as Authentication, Realtime Database, Firestore, and Cloud Functions.:<br>
+
 Onboarding for New Users:<br>
 Implementing an onboarding experience to guide new users through key features and functionalities of the app.:<br>
 Edit Profile Functionality:<br>
