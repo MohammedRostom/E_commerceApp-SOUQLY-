@@ -3,7 +3,7 @@
 <br>
 "Overview" What Are used in this App? 
 <br>
-## Getting Started
+## Getting Started<br>
 State Management with BLoC/Cubit:<br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
 Shimmer Effect for Improved UX:<br>
