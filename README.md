@@ -14,7 +14,7 @@ Implementing secure user authentication using Firebase Authentication services, 
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/sghinup.png" alt="logoApp" width="250" height="550"/>
 </div>
-
+br><br><br>
 State Management with BLoC/Cubit:<br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
 Shimmer Effect for Improved UX:<br>
@@ -30,8 +30,7 @@ Integrating external APIs to fetch and display dynamic data, enhancing the app's
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/shimmerEffect.png" alt="logoApp" width="250" height="550"/>
 </div>
-
-
+<br><br>
 Onboarding for New Users:<br>
 Implementing an onboarding experience to guide new users through key features and functionalities of the app.:<br>
 <div>
@@ -45,10 +44,10 @@ Enabling users to customize their profiles by providing functionality to edit pe
 <div>
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/profilacahing.png" alt="logoApp" width="300" height="630"/>
 </div>
+<br><br>
 
 Custom Widgets for Consistent UI:<br>
-Designing and utilizing custom widgets throughout the app to maintain a consistent and visually appealing user interface, promoting code reusability.:<br>
-
+Designing and utilizing custom widgets throughout the app to maintain a consistent and visually appealing user interface, promoting code reusability<br>
 SQLite CRUD Operations for Local Data:<br>
 Employing SQLite for CRUD operations, enabling local storage and retrieval of data, providing offline capabilities and a smoother user experience.
 <div style="display: flex; justify-content: space-evenly;">
@@ -56,7 +55,7 @@ Employing SQLite for CRUD operations, enabling local storage and retrieval of da
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/productSingle.png" alt="logoApp" width="250" height="550"/>
 </div>
-<br>
+<br><br><br>
 Integration with Payment Services (PayMob):<br>
 Integrating PayMob for handling payment services, enabling users to securely make payments for services or products through a reliable payment gateway<br>
 <div style="display: flex; justify-content: space-evenly;">
@@ -64,7 +63,6 @@ Integrating PayMob for handling payment services, enabling users to securely mak
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/paument.png" alt="logoApp" width="250" height="550"/>
 </div>
-
 <h5>Started design this by me With UI/UX Designing</h5>
 <ul>
 <h2> <li> ui/ux Design App link 😉👍</li></h2>
