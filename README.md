@@ -2,8 +2,7 @@
 "E-commerce App"
 <br>
 "Overview" What Are used in this App? 
-
-##Getting Started
+<h2>Getting Started</h2>
 State Management with BLoC/Cubit:<br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
 Shimmer Effect for Improved UX:<br>
