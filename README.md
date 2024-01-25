@@ -1,6 +1,7 @@
 # SOUQLY 
 "E-commerce App"
-#"Overview" What Are used in this App? 
+<hr>
+"Overview" What Are used in this App? 
 ## Getting Started
 State Management with BLoC/Cubit:
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.
