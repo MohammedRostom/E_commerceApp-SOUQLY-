@@ -29,6 +29,10 @@ Clean Architecture Design:<br>
 Adhering to Clean Architecture principles to organize the codebase into layers (Presentation, Domain, Data), fostering modularity and scalability.:<br>
 
 Onboarding for New Users:<br>
+<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/onbord.png" alt="logoApp" width="300" height="630"/>
+
+
+</div>
 Implementing an onboarding experience to guide new users through key features and functionalities of the app.:<br>
 Edit Profile Functionality:<br>
 Enabling users to customize their profiles by providing functionality to edit personal information, change profile pictures, and update other profile details.:<br>
