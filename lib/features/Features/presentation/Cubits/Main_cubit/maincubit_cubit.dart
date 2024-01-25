@@ -4,12 +4,12 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:meta/meta.dart';
 import 'package:useCubitToKeebUserloginedAnddarkmode/Core/utils/Constant.dart';
 import 'package:useCubitToKeebUserloginedAnddarkmode/Core/utils/colors.dart';
-import 'package:useCubitToKeebUserloginedAnddarkmode/features/Featshers/presentation/Cubits/features_product_cubit/product_features_cubit.dart';
 import '../../../../../Core/cache/cachprefranses.dart';
 import '../../view/Favorite/favroite.dart';
 import '../../view/Home/homepage.dart';
 import '../../view/Payment/Payment.dart';
 import '../../../../../Core/widgets/SmallWidgets/widgets.dart';
+import '../features_product_cubit/product_features_cubit.dart';
 
 part 'maincubit_state.dart';
 

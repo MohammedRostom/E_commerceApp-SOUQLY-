@@ -1,6 +1,6 @@
-import 'package:useCubitToKeebUserloginedAnddarkmode/features/Featshers/data/models/categorymodel.dart';
-import 'package:useCubitToKeebUserloginedAnddarkmode/features/Featshers/data/models/productmodel.dart';
-import 'package:useCubitToKeebUserloginedAnddarkmode/features/Featshers/data/data_sources/remote/Api/ApiServises.dart';
+import '../../data_sources/remote/Api/ApiServises.dart';
+import '../../models/categorymodel.dart';
+import '../../models/productmodel.dart';
 
 class reboApi {
   List<Categorymodel> newgroupOfCtegory = [];

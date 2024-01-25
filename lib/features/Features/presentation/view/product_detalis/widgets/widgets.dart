@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:useCubitToKeebUserloginedAnddarkmode/features/Featshers/data/models/productmodel.dart';
-
 import '../../../../../../Core/utils/colors.dart';
 import '../../../../../../Core/widgets/SmallWidgets/widgets.dart';
+import '../../../../data/models/productmodel.dart';
 import '../../../Cubits/features_product_cubit/product_features_cubit.dart';
 
 Widget Showproduct(ProductModel model, BuildContext context) {

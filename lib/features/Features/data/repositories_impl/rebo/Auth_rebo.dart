@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:useCubitToKeebUserloginedAnddarkmode/features/Featshers/data/models/usermodel.dart';
 
 import '../../data_sources/remote/firbases/firbases_sevises.dart';
+import '../../models/usermodel.dart';
 
 class rebo {
   Future<UserModel?> loginedrebo(

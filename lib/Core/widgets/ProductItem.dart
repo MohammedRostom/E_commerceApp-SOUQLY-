@@ -1,13 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:tip_dialog/tip_dialog.dart';
-import 'package:useCubitToKeebUserloginedAnddarkmode/Core/utils/Constant.dart';
-import 'package:useCubitToKeebUserloginedAnddarkmode/features/Featshers/data/models/productmodel.dart';
-import 'package:useCubitToKeebUserloginedAnddarkmode/features/Featshers/presentation/Cubits/Getprouducrs_cubits/get_allproducts_cubit.dart';
 import 'package:useCubitToKeebUserloginedAnddarkmode/Core/widgets/LoaingAndShimmerEffect.dart';
+import 'package:useCubitToKeebUserloginedAnddarkmode/features/Features/data/models/productmodel.dart';
+import 'package:useCubitToKeebUserloginedAnddarkmode/features/Features/presentation/Cubits/Getprouducrs_cubits/get_allproducts_cubit.dart';
+import 'package:useCubitToKeebUserloginedAnddarkmode/features/Features/presentation/Cubits/features_product_cubit/product_features_cubit.dart';
 
 import '../utils/colors.dart';
-import '../../features/Featshers/presentation/Cubits/features_product_cubit/product_features_cubit.dart';
 import 'SmallWidgets/widgets.dart';
 
 Container ProductItem(BuildContext context, int index,

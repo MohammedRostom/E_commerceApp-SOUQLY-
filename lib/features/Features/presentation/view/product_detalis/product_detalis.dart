@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:useCubitToKeebUserloginedAnddarkmode/features/Featshers/presentation/Cubits/features_product_cubit/product_features_cubit.dart';
-import 'package:useCubitToKeebUserloginedAnddarkmode/features/Featshers/presentation/view/product_detalis/widgets/widgets.dart';
+import 'package:useCubitToKeebUserloginedAnddarkmode/features/Features/presentation/view/product_detalis/widgets/widgets.dart';
+import '../../../../../Core/utils/Constant.dart';
 import '../../../data/models/productmodel.dart';
+import '../../Cubits/features_product_cubit/product_features_cubit.dart';
 import '../Cart/widgets/widgets.dart';
 
 class product_detalis extends StatelessWidget {
@@ -35,6 +36,7 @@ class product_detalis extends StatelessWidget {
   }
 
   _AddtocartMethod(context, model) {
-    ProductFeaturesCubit.get(context).AddProduct(model, context);
+    ProductFeaturesCubit.get(context)
+        .AddProduct(model, context, tablename: constant.CartTable);
   }
 }

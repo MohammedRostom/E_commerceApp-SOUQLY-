@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:useCubitToKeebUserloginedAnddarkmode/Core/utils/Constant.dart';
-import 'package:useCubitToKeebUserloginedAnddarkmode/features/Featshers/data/models/productmodel.dart';
+import 'package:useCubitToKeebUserloginedAnddarkmode/features/Features/data/models/productmodel.dart';
 
 class DataBasesHelper {
   DataBasesHelper._();
