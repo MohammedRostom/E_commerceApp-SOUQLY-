@@ -4,7 +4,8 @@
 "Overview" What Are used in this App? 
 Backend-as-a-Service (BaaS) with Firebase:<br>
 Leveraging Firebase as a Backend-as-a-Service solution to seamlessly integrate services such as Authentication, Realtime Database, Firestore, and Cloud Functions.:<br>
-<div style="display: inline-block;">
+<div style="display: inline-block;     display: flex;
+    justify-content: space-evenly;">
     <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/wellcome.png" alt="logoApp" width="250" height="550"/>
         <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/login.png" alt="logoApp" width="250" height="550"/>
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/sghinup.png" alt="logoApp" width="250" height="550"/>
