@@ -33,6 +33,7 @@ Onboarding for New Users:<br>
 Implementing an onboarding experience to guide new users through key features and functionalities of the app.:<br>
 <div>
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/onbord.png" alt="logoApp" width="300" height="630"/>
+
 </div>
 
 Caching with Shared Preferences && Edit Profile Functionality <br>
@@ -48,8 +49,10 @@ Designing and utilizing custom widgets throughout the app to maintain a consiste
 
 SQLite CRUD Operations for Local Data:<br>
 Employing SQLite for CRUD operations, enabling local storage and retrieval of data, providing offline capabilities and a smoother user experience.
-<div>
-<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/cart.png" alt="logoApp" width="300" height="630"/>
+<div style="display: flex; justify-content: space-evenly;">
+<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/cart.png" alt="logoApp" width="250" height="550"/>
+    &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/productSingle.png" alt="logoApp" width="250" height="550"/>
 </div>
 <br>
 Integration with Payment Services (PayMob):<br>
