@@ -1,4 +1,4 @@
-<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/iconApp.png" alt="logoApp" width="300" height="100"/>
+<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/iconApp.png" alt="logoApp" width="100" height="100"/>
 "E-commerce App"
 <br>
 "<b>Overview</b>" What Are used in this App? 
